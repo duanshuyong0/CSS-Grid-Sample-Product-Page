@@ -4,4 +4,4 @@ Responsive Grid CSS Website demo project using some basic techniques for a simpl
 
 This project was done just for teaching purpose.
 
-use the link to test: https://ramyatrouny.github.io/Sample-Product-Page/
+use the link to test: https://ramyatrouny.github.io/CSS-Grid-Sample-Product-Page/
